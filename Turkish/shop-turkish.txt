@@ -1,0 +1,10 @@
+Stop Online, diðer oyuncularla kelime bilgisi üzerine yarýþabileceðiniz ve bunu yaparken en yüksek rütbeye ulaþmak için zamanla da yarýþacaðýnýz bir kelime savaþý oyunudur. Kelimeler tercih ettiðiniz dilde olur ve rakipleriniz de ayný dili tercih edenler arasýndan seçilir. Þu anda desteklenen diller: Ýngilizce, Portekizce (BR), Portekizce (PT), Ýspanyolca, Fransýzca, Almanca, Ýtalyanca, Rusça, Türkçe.
+
+OYUN
+
+Maça girdikten sonra her turda bir harf çekilir ve tema sütunlarýný çekilen harfle baþlayan kelimeleri kullanarak tamamlamanýz gerekir.
+
+ÖRNEK: Eðer "A" harfi çekilirse, belirlenen 5 temayý da "A" harfi ile baþlayan kelimelerle doldurmanýz gerekir.
+Zaman dolduðunda tüm oyuncularýn cevaplarý karþýlaþtýrýlýr ve sonuçlar ekranda gözükür.
+
+Dur butonu: Temalarý doðru kelimelerle tamamladýktan sonra DUR BUTONU'na basabilir ve tüm oyuncular için turu sonlandýrabilirsiniz.
