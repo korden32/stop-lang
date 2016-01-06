@@ -28,7 +28,7 @@
    "txtRank":"RANK",
    "txtRoom":"ROOMS",
    "txtMakeRoom":"CREATE ROOM",
-   "txtNameRoom":"NAME ROOM",
+   "txtNameRoom":"Room name",
    "txtLetter":"Letter",
    "txtTurn":"Turn",
    "txtMessage":"Message",
