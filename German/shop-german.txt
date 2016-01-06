@@ -1,0 +1,9 @@
+Stop-Online ist ein Wort Kampf Multiplayer Spiel, wo Sie mit mehreren Spielern Ziel Herausforderungen sie auf ihr Wissen über Worte und versuchte, so schnell bei der Verfolgung von höheren Rang reagieren zu können konkurrieren. Die Worte sind in Ihrer Sprache und Sie gegen Spieler aus der gleichen Sprache zu spielen. Unterstützte Sprachen sind Englisch, Portugiesisch (BR) Portugiesisch (PT), Spanisch, Französisch, Deutsch, Italienisch, Russian, Türkischen.
+
+DAS SPIEL
+
+Nach der Eingabe eines Spiel, mit jeder neuen Runde wird einen Brief verfasst werden, und Sie müssen in den Spalten der Probanden mit Wörtern, die mit dem gleichen Buchstaben beginnen, gezogen zu füllen.
+
+zB: gezeichnet den Buchstaben (A), sollten Sie versuchen, in den fünf vorgeschlagenen Themen im Spiel zu füllen ein Wort begann in (A). Am Ende der Zeit wird allen Spielern Antwort verglichen werden und das Ergebnis auf dem Bildschirm angezeigt.
+
+Stopp-Taste: Beim Ausfüllen des Mindestzahl von Probanden mit richtigen Keywords, können Sie die STOPTaste drücken und so die Runde für alle Spieler zum Abschluss.
