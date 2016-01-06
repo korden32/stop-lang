@@ -1,0 +1,10 @@
+Stop Online é um jogo de batalha de palavras multiplayer onde você compete com vários jogadores com objetivo desafia-los em seu conhecimento de Palavras, tentando ser o mais rápido nas respostas em busca da maior pontuação. As palavras são no seu idioma e você jogará contra jogadores do mesmo idioma. Os idiomas suportados são Inglês, Português (BR), Português (PT), Espanhol, Francês, Alemão, Italiano, Russo, Turco.
+
+[b]O JOGO[/b]
+
+Depois de entrar em uma partida, a cada nova rodada será sorteada uma letra e você deverá preencher as colunas dos temas com palavras que iniciem com a mesma letra sorteada. 
+
+EX: Sorteada a letra (A), terá que tentar preencher uma palavra iniciada em (A) nos 5 temas propostos na partida. 
+Ao término do tempo, a resposta de todos os jogadores será comparada e o resultado mostrado na tela. 
+
+Botão Stop: Ao preencher o número mínimo de temas com palavras corretas, você poderá apertar o BOTÃO STOP e assim finalizar a rodada para todos os jogadores.
