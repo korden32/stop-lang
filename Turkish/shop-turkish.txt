@@ -1,10 +1,10 @@
-Stop Online, diğer oyuncularla kelime bilgisi üzerine yarışabileceğiniz ve bunu yaparken en yüksek rütbeye ulaşmak için zamanla da yarışacağınız bir kelime savaşı oyunudur. Kelimeler tercih ettiğiniz dilde olur ve rakipleriniz de aynı dili tercih edenler arasından seçilir. Şu anda desteklenen diller: İngilizce, Portekizce (BR), Portekizce (PT), İspanyolca, Fransızca, Almanca, İtalyanca, Rusça, Türkçe.
+Stop Online, diÄŸer oyuncularla kelime bilgisi Ã¼zerine yarÄ±ÅŸabileceÄŸiniz ve bunu yaparken en yÃ¼ksek rÃ¼tbeye ulaÅŸmak iÃ§in zamanla da yarÄ±ÅŸacaÄŸÄ±nÄ±z bir kelime savaÅŸÄ± oyunudur. Kelimeler tercih ettiÄŸiniz dilde olur ve rakipleriniz de aynÄ± dili tercih edenler arasÄ±ndan seÃ§ilir. Åu anda desteklenen diller: Ä°ngilizce, Portekizce (BR), Portekizce (PT), Ä°spanyolca, FransÄ±zca, Almanca, Ä°talyanca, RusÃ§a, TÃ¼rkÃ§e.
 
-OYUN
+[b]OYUN[/b]
 
-Maça girdikten sonra her turda bir harf çekilir ve tema sütunlarını çekilen harfle başlayan kelimeleri kullanarak tamamlamanız gerekir.
+MaÃ§a girdikten sonra her turda bir harf Ã§ekilir ve tema sÃ¼tunlarÄ±nÄ± Ã§ekilen harfle baÅŸlayan kelimeleri kullanarak tamamlamanÄ±z gerekir.
 
-ÖRNEK: Eğer "A" harfi çekilirse, belirlenen 5 temayı da "A" harfi ile başlayan kelimelerle doldurmanız gerekir.
-Zaman dolduğunda tüm oyuncuların cevapları karşılaştırılır ve sonuçlar ekranda gözükür.
+Ã–RNEK: EÄŸer "A" harfi Ã§ekilirse, belirlenen 5 temayÄ± da "A" harfi ile baÅŸlayan kelimelerle doldurmanÄ±z gerekir.
+Zaman dolduÄŸunda tÃ¼m oyuncularÄ±n cevaplarÄ± karÅŸÄ±laÅŸtÄ±rÄ±lÄ±r ve sonuÃ§lar ekranda gÃ¶zÃ¼kÃ¼r.
 
-Dur butonu: Temaları doğru kelimelerle tamamladıktan sonra DUR BUTONU'na basabilir ve tüm oyuncular için turu sonlandırabilirsiniz.
+Dur butonu: TemalarÄ± doÄŸru kelimelerle tamamladÄ±ktan sonra DUR BUTONU'na basabilir ve tÃ¼m oyuncular iÃ§in turu sonlandÄ±rabilirsiniz.
